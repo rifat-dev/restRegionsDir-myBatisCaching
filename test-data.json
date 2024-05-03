@@ -1,0 +1,614 @@
+[
+  {
+    "name": "Adygea", 
+    "shortName": "AD"
+  },
+  {
+    "name": "Altai Krai", 
+    "shortName": "ALK"
+  },
+  {
+    "name": "Altai Republic", 
+    "shortName": "AR"
+  },
+  {
+    "name": "Amur Oblast", 
+    "shortName": "AO"
+  },
+  {
+    "name": "Arkhangelsk Oblast", 
+    "shortName": "AO"
+  },
+  {
+    "name": "Astrakhan Oblast", 
+    "shortName": "AO"
+  },
+  {
+    "name": "Bashkortostan", 
+    "shortName": "BA"
+  },
+  {
+    "name": "Belgorod Oblast", 
+    "shortName": "BO"
+  },
+  {
+    "name": "Bryansk Oblast", 
+    "shortName": "BO"
+  },
+  {
+    "name": "Buryatia", 
+    "shortName": "BU"
+  },
+  {
+    "name": "Chechen Republic", 
+    "shortName": "CR"
+  },
+  {
+    "name": "Chelyabinsk Oblast", 
+    "shortName": "CO"
+  },
+  {
+    "name": "Chuvashia", 
+    "shortName": "CH"
+  },
+  {
+    "name": "Crimea", 
+    "shortName": "CR"
+  },
+  {
+    "name": "Dagestan", 
+    "shortName": "DA"
+  },
+  {
+    "name": "Kabardino-Balkaria", 
+    "shortName": "KB"
+  },
+  {
+    "name": "Kaliningrad Oblast", 
+    "shortName": "KO"
+  },
+  {
+    "name": "Kalmykia", 
+    "shortName": "KL"
+  },
+  {
+    "name": "Kamchatka Krai", 
+    "shortName": "KK"
+  },
+  {
+    "name": "Karachay-Cherkessia", 
+    "shortName": "KC"
+  },
+  {
+    "name": "Karelia", 
+    "shortName": "KA"
+  },
+  {
+    "name": "Kemerovo Oblast", 
+    "shortName": "KO"
+  },
+  {
+    "name": "Khabarovsk Krai", 
+    "shortName": "KK"
+  },
+  {
+    "name": "Khakassia", 
+    "shortName": "KH"
+  },
+  {
+    "name": "Khanty-Mansi Autonomous Okrug-Yugra", 
+    "shortName": "KMAO-Y"
+  },
+  {
+    "name": "Kirov Oblast", 
+    "shortName": "KO"
+  },
+  {
+    "name": "Komi Republic", 
+    "shortName": "KR"
+  },
+  {
+    "name": "Komi-Permyak Autonomous Okrug", 
+    "shortName": "KPAO"
+  },
+  {
+    "name": "Kostroma Oblast", 
+    "shortName": "KO"
+  },
+  {
+    "name": "Krasnodar Krai", 
+    "shortName": "KK"
+  },
+  {
+    "name": "Krasnoyarsk Krai", 
+    "shortName": "KK"
+  },
+  {
+    "name": "Kurgan Oblast", 
+    "shortName": "KO"
+  },
+  {
+    "name": "Kursk Oblast", 
+    "shortName": "KO"
+  },
+  {
+    "name": "Leningrad Oblast", 
+    "shortName": "LO"
+  },
+  {
+    "name": "Lipetsk Oblast", 
+    "shortName": "LO"
+  },
+  {
+    "name": "Magadan Oblast", 
+    "shortName": "MO"
+  },
+  {
+    "name": "Mari El", 
+    "shortName": "ME"
+  },
+  {
+    "name": "Mordovia", 
+    "shortName": "MO"
+  },
+  {
+    "name": "Moscow", 
+    "shortName": "MO"
+  },
+  {
+    "name": "Moscow Oblast", 
+    "shortName": "MO"
+  },
+  {
+    "name": "Murmansk Oblast", 
+    "shortName": "MO"
+  },
+  {
+    "name": "Nenets Autonomous Okrug", 
+    "shortName": "NAO"
+  },
+  {
+    "name": "Nizhny Novgorod Oblast", 
+    "shortName": "NN"
+  },
+  {
+    "name": "Novgorod Oblast", 
+    "shortName": "NO"
+  },
+  {
+    "name": "Novosibirsk Oblast", 
+    "shortName": "NS"
+  },
+  {
+    "name": "Omsk Oblast", 
+    "shortName": "OM"
+  },
+  {
+    "name": "Orenburg Oblast", 
+    "shortName": "OR"
+  },
+  {
+    "name": "Oryol Oblast", 
+    "shortName": "OY"
+  },
+  {
+    "name": "Penza Oblast", 
+    "shortName": "PZ"
+  },
+  {
+    "name": "Perm Krai", 
+    "shortName": "PK"
+  },
+  {
+    "name": "Primorsky Krai", 
+    "shortName": "PK"
+  },
+  {
+    "name": "Pskov Oblast", 
+    "shortName": "PS"
+  },
+  {
+    "name": "Rostov Oblast", 
+    "shortName": "RO"
+  },
+  {
+    "name": "Ryazan Oblast", 
+    "shortName": "RY"
+  },
+  {
+    "name": "Samara Oblast", 
+    "shortName": "SA"
+  },
+  {
+    "name": "Saratov Oblast", 
+    "shortName": "SR"
+  },
+  {
+    "name": "Sakha (Yakutia)", 
+    "shortName": "SY"
+  },
+  {
+    "name": "Sakhalin Oblast", 
+    "shortName": "SO"
+  },
+  {
+    "name": "Smolensk Oblast", 
+    "shortName": "SM"
+  },
+  {
+    "name": "Stavropol Krai", 
+    "shortName": "SK"
+  },
+  {
+    "name": "Sverdlovsk Oblast", 
+    "shortName": "SV"
+  },
+  {
+    "name": "Tambov Oblast", 
+    "shortName": "TB"
+  },
+  {
+    "name": "Tomsk Oblast", 
+    "shortName": "TO"
+  },
+  {
+    "name": "Tula Oblast", 
+    "shortName": "TU"
+  },
+  {
+    "name": "Tver Oblast", 
+    "shortName": "TV"
+  },
+  {
+    "name": "Tyumen Oblast", 
+    "shortName": "TY"
+  },
+  {
+    "name": "Udmurtia", 
+    "shortName": "UD"
+  },
+  {
+    "name": "Ulyanovsk Oblast", 
+    "shortName": "UL"
+  },
+  {
+    "name": "Vladimir Oblast", 
+    "shortName": "VL"
+  },
+  {
+    "name": "Volgograd Oblast", 
+    "shortName": "VG"
+  },
+  {
+    "name": "Vologda Oblast", 
+    "shortName": "VO"
+  },
+  {
+    "name": "Voronezh Oblast", 
+    "shortName": "VZ"
+  },
+  {
+    "name": "Yaroslavl Oblast", 
+    "shortName": "YA"
+  },
+  {
+    "name": "Zabaykalsky Krai", 
+    "shortName": "ZB"
+  },
+  {
+    "name": "Republic of Tatarstan",
+    "shortName": "RT"
+  },
+  {
+    "name": "St Petersburg", 
+    "shortName": "SPB"
+  },
+  {
+    "name": "Belarus",
+    "shortName": "BLR"
+  },
+  {
+    "name": "Ukraine",
+    "shortName": "UKR"
+  },
+  {
+    "name": "Moldova",
+    "shortName": "MDA"
+  },
+  {
+    "name": "Russia",
+    "shortName": "RUS"
+  },
+  {
+    "name": "Norway",
+    "shortName": "NOR"
+  },
+  {
+    "name": "Sweden",
+    "shortName": "SWE"
+  },
+  {
+    "name": "Finland",
+    "shortName": "FIN"
+  },
+  {
+    "name": "Denmark",
+    "shortName": "DNK"
+  },
+  {
+    "name": "Iceland",
+    "shortName": "ISL"
+  },
+  {
+    "name": "United Kingdom",
+    "shortName": "GBR"
+  },
+  {
+    "name": "Ireland",
+    "shortName": "IRL"
+  },
+  {
+    "name": "France",
+    "shortName": "FRA"
+  },
+  {
+    "name": "Spain",
+    "shortName": "ESP"
+  },
+  {
+    "name": "Portugal",
+    "shortName": "PRT"
+  },
+  {
+    "name": "Italy",
+    "shortName": "ITA"
+  },
+  {
+    "name": "Malta",
+    "shortName": "MLT"
+  },
+  {
+    "name": "Germany",
+    "shortName": "DEU"
+  },
+  {
+    "name": "Switzerland",
+    "shortName": "CHE"
+  },
+  {
+    "name": "Austria",
+    "shortName": "AUT"
+  },
+  {
+    "name": "Liechtenstein",
+    "shortName": "LIE"
+  },
+  {
+    "name": "Luxembourg",
+    "shortName": "LUX"
+  },
+  {
+    "name": "Netherlands",
+    "shortName": "NLD"
+  },
+  {
+    "name": "Belgium",
+    "shortName": "BEL"
+  },
+  {
+    "name": "Czech Republic",
+    "shortName": "CZE"
+  },
+  {
+    "name": "Slovakia",
+    "shortName": "SVK"
+  },
+  {
+    "name": "Poland",
+    "shortName": "POL"
+  },
+  {
+    "name": "Hungary",
+    "shortName": "HUN"
+  },
+  {
+    "name": "Slovenia",
+    "shortName": "SVN"
+  },
+  {
+    "name": "Croatia",
+    "shortName": "HRV"
+  },
+  {
+    "name": "Bosnia and Herzegovina",
+    "shortName": "BIH"
+  },
+  {
+    "name": "Serbia",
+    "shortName": "SRB"
+  },
+  {
+    "name": "Montenegro",
+    "shortName": "MNE"
+  },
+  {
+    "name": "Bulgaria",
+    "shortName": "BGR"
+  },
+  {
+    "name": "Romania",
+    "shortName": "ROU"
+  },
+  {
+    "name": "Moldova",
+    "shortName": "MOL"
+  },
+  {
+    "name": "Greece",
+    "shortName": "GRC"
+  },
+  {
+    "name": "Cyprus",
+    "shortName": "CYP"
+  },
+  {
+    "name": "Alabama",
+    "shortName": "AL"
+  },
+  {
+    "name": "Alaska",
+    "shortName": "AK"
+  },
+  {
+    "name": "Arizona",
+    "shortName": "AZ"
+  },
+  {
+    "name": "Arkansas",
+    "shortName": "AR"
+  },
+  {
+    "name": "California",
+    "shortName": "CA"
+  },
+  {
+    "name": "Colorado",
+    "shortName": "CO"
+  },
+  {
+    "name": "Connecticut",
+    "shortName": "CT"
+  },
+  {
+    "name": "Delaware",
+    "shortName": "DE"
+  },
+  {
+    "name": "Florida",
+    "shortName": "FL"
+  },
+  {
+    "name": "Georgia",
+    "shortName": "GA"
+  },
+  {
+    "name": "Hawaii",
+    "shortName": "HI"
+  },
+  {
+    "name": "Idaho",
+    "shortName": "ID"
+  },
+  {
+    "name": "Illinois",
+    "shortName": "IL"
+  },
+  {
+    "name": "Indiana",
+    "shortName": "IN"
+  },
+  {
+    "name": "Iowa",
+    "shortName": "IA"
+  },
+  {
+    "name": "Kansas",
+    "shortName": "KS"
+  },
+  {
+    "name": "Kentucky",
+    "shortName": "KY"
+  },
+  {
+    "name": "Louisiana",
+    "shortName": "LA"
+  },
+  {
+    "name": "Maine",
+    "shortName": "ME"
+  },
+  {
+    "name": "Maryland",
+    "shortName": "MD"
+  },
+  {
+    "name": "Massachusetts",
+    "shortName": "MA"
+  },
+  {
+    "name": "Michigan",
+    "shortName": "MI"
+  },
+  {
+    "name": "Minnesota",
+    "shortName": "MN"
+  },
+  {
+    "name": "Mississippi",
+    "shortName": "MS"
+  },
+  {
+    "name": "Missouri",
+    "shortName": "MO"
+  },
+  {
+    "name": "Montana",
+    "shortName": "MT"
+  },
+  {
+    "name": "Nebraska",
+    "shortName": "NE"
+  },
+  {
+    "name": "Nevada",
+    "shortName": "NV"
+  },
+  {
+    "name": "New Hampshire",
+    "shortName": "NH"
+  },
+  {
+    "name": "New Jersey",
+    "shortName": "NJ"
+  },
+  {
+    "name": "New Mexico",
+    "shortName": "NM"
+  },
+  {
+    "name": "New York",
+    "shortName": "NY"
+  },
+  {
+    "name": "North Carolina",
+    "shortName": "NC"
+  },
+  {
+    "name": "North Dakota",
+    "shortName": "ND"
+  },
+  {
+    "name": "Ohio",
+    "shortName": "OH"
+  },
+  {
+    "name": "Oklahoma",
+    "shortName": "OK"
+  },
+  {
+    "name": "Oregon",
+    "shortName": "OR"
+  },
+  {
+    "name": "Pennsylvania",
+    "shortName": "PA"
+  },
+  {
+    "name": "Rhode Island",
+    "shortName": "RI"
+  },
+  {
+    "name": "South Carolina",
+    "shortName": "SC"
+  }
+]
