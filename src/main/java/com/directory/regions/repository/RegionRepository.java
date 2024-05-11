@@ -16,7 +16,8 @@ import com.directory.regions.typeHandler.UuidTypeHandler;
 
 @Mapper
 public interface RegionRepository {
-    @Select("SELECT id, name, short_name FROM regions LIMIT #{limit} OFFSET #{offset}")
+    // 
+    @Select("SELECT id, name, short_name FROM regions ORDER BY name ASC LIMIT #{limit} OFFSET #{offset}")
     @Results({
         @Result(column = "id", property = "id", typeHandler = UuidTypeHandler.class),
         @Result(column = "name", property = "name"),
@@ -41,7 +42,7 @@ public interface RegionRepository {
     })
     Region findByIdRegion(Region region);
 
-    @Select("SELECT id, name, short_name FROM regions WHERE short_name = #{shortName} LIMIT #{limit} OFFSET #{offset}")
+    @Select("SELECT id, name, short_name FROM regions WHERE short_name = #{shortName} ORDER BY name ASC LIMIT #{limit} OFFSET #{offset}")
     @Results({
         @Result(column = "id", property = "id", typeHandler = UuidTypeHandler.class),
         @Result(column = "name", property = "name"),
